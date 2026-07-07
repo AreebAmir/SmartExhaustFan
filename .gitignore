@@ -1,0 +1,10 @@
+# Credentials
+secrets.h
+
+# Arduino / PlatformIO build artifacts
+build/
+.pio/
+.vscode/
+*.o
+*.elf
+*.bin
